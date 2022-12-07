@@ -1,2 +1,2 @@
-# example-project-portfolio
-An example final project portfolio for MicroPs
+# Audio Harmonizer
+A final project portfolio by Brian Simpkins and Kevin Kim
