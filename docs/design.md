@@ -7,8 +7,10 @@ permalink: /doc/
 # Design
 <!-- Include images of the schematics for your system. They should follow best practices for schematic drawings with all parts and pins clearly labeled. You may draw your schematics either with a software tool or neatly by hand. -->
 
+
 <img src="./assets/img/fft_in_reg.PNG" alt="schematic" width="100%" />
 <img src="./assets/img/fft_out_reg.PNG" alt="schematic" width="100%" />
+
 
 # MCU Design
 The main components of the MCU include the usage of an ADC (Analog to Digital Converter), and the SPI module within the MCU. 
