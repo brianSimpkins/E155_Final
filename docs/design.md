@@ -6,11 +6,10 @@ permalink: /design/
 
 # Design
 
-<<<<<<< HEAD
+
 <img src="./assets/img/fft_in_reg.PNG" alt="schematic" width="100%" />
 <img src="./assets/img/fft_out_reg.PNG" alt="schematic" width="100%" />
-=======
->>>>>>> 6e345ea4e793666c215b5e89e69b166825074e1f
+
 
 # MCU Design
 
