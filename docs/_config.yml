@@ -4,6 +4,7 @@ author: "Brian Simpkins and Kevin Kim"
 theme: minima
 
 header-pages:
+  - design.html
   - documentation.html
   - resources.html
 
