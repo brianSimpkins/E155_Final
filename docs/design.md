@@ -7,7 +7,8 @@ permalink: /doc/
 # Design
 <!-- Include images of the schematics for your system. They should follow best practices for schematic drawings with all parts and pins clearly labeled. You may draw your schematics either with a software tool or neatly by hand. -->
 
-<img src="./assets/schematics/Final_Schematic.png" alt="schematic" width="100%" />
+<img src="./assets/img/fft_in_reg.PNG" alt="schematic" width="100%" />
+<img src="./assets/img/fft_out_reg.PNG" alt="schematic" width="100%" />
 
 # MCU Design
 <!-- This section should include information to describe the organization of the code base and highlight how the code connects. -->
