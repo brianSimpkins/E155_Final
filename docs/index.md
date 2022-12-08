@@ -9,7 +9,7 @@ exclude: true
 
 
 <div style="text-align: left">
-  <img align="left" src="./assets/img/Logo.png" alt="logo" width="120" />
+  <img align="right" src="./assets/img/Logo.png" alt="logo" width="120" />
 
   Our system utilizes an Upduino 3.1 iCE40UP5k FPGA and a STM32L432KC microcontroller to harmonize with a microphone input.
 
