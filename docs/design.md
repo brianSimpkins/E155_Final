@@ -8,19 +8,14 @@ permalink: /design/
 <!-- Include images of the schematics for your system. They should follow best practices for schematic drawings with all parts and pins clearly labeled. You may draw your schematics either with a software tool or neatly by hand. -->
 
 
-<figure>
 <img src="../assets/img/fft_in_reg.png" alt="schematic" width="100%" />
 <figcaption> Fig. 1 - FFT Input Buffer RTL design
-</figure>
-<figure>
+
 <img src="../assets/img/fft_out_reg.png" alt="schematic" width="100%" />
 <figcaption> Fig. 2 - FFT Output Buffer RTL design
-</figure>
 
-<figure>
 <img src="../assets/img/top.png" alt="schematic" width="100%" />
 <figcaption> Fig. 3 - Top-level module
-</figure>
 
 
 # MCU Design
