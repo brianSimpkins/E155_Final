@@ -9,13 +9,13 @@ permalink: /design/
 
 
 <img src="../assets/img/fft_in_reg.png" alt="schematic" width="100%" />
-<figcaption> Fig. 1 - FFT Input Buffer RTL design
+<figcaption> Fig. 1 - FFT Input Buffer RTL design </figcaption>
 
 <img src="../assets/img/fft_out_reg.png" alt="schematic" width="100%" />
-<figcaption> Fig. 2 - FFT Output Buffer RTL design
+<figcaption> Fig. 2 - FFT Output Buffer RTL design </figcaption>
 
 <img src="../assets/img/top.png" alt="schematic" width="100%" />
-<figcaption> Fig. 3 - Top-level module
+<figcaption> Fig. 3 - Top-level module </figcaption>
 
 
 # MCU Design
