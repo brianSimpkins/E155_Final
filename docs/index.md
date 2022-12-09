@@ -4,12 +4,9 @@ title: Project Overview
 permalink: /
 exclude: true
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTo8ifdhfjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # Project Abstract
-
-
 <div style="text-align: left">
-  <img align="right" src="./assets/img/Logo.png" alt="logo" width="120" />
 
   Our system utilizes an Upduino 3.1 iCE40UP5k FPGA and a STM32L432KC microcontroller to harmonize with a microphone input.
 
@@ -20,7 +17,7 @@ exclude: true
 
 # Project Motivation
 
-We wanted to do something within the domain of music and accomplish something **hard** with the FPGA and MCU
+We wanted to do something within the domain of music and accomplish something **hard** with the FPGA and MCU. 
 
 # System Block Diagram
 <img src="./assets/img/blockdiagram.png" alt="schematic" width="50%" />
