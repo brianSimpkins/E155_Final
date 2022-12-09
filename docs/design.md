@@ -9,16 +9,16 @@ permalink: /design/
 
 
 <figure>
-<img src="./assets/img/fft_in_reg.png" alt="schematic" width="50%" />
+<img src="../assets/img/fft_in_reg.png" alt="schematic" width="50%" />
 <figcaption> Fig. 1 - FFT Input Buffer RTL design
 </figure>
 <figure>
-<img src="./assets/img/fft_out_reg.png" alt="schematic" width="50%" />
+<img src="../assets/img/fft_out_reg.png" alt="schematic" width="50%" />
 <figcaption> Fig. 2 - FFT Output Buffer RTL design
 </figure>
 
 <figure>
-<img src="./assets/img/top.png" alt="schematic" width="50%" />
+<img src="../assets/img/top.png" alt="schematic" width="50%" />
 <figcaption> Fig. 3 - Top-level module
 </figure>
 
