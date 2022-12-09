@@ -20,4 +20,7 @@ exclude: true
 
 # Project Motivation
 
+We wanted to do something within the domain of music and accomplish something **hard** with the FPGA and MCU
+
 # System Block Diagram
+<img src="./assets/img/blockdiagram.png" alt="schematic" width="50%" />

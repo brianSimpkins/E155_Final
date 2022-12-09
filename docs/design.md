@@ -17,9 +17,14 @@ permalink: /design/
 <figcaption> Fig. 2 - FFT Output Buffer RTL design
 </figure>
 
+<figure>
+<img src="./assets/img/top.PNG" alt="schematic" width="50%" />
+<figcaption> Fig. 3 - Top-level module
+</figure>
+
 
 # MCU Design
-The main components of the MCU include the usage of an ADC (Analog to Digital Converter), and the SPI module within the MCU.
+The main components of the MCU include the usage of an ADC (Analog to Digital Converter), and the SPI module within the MCU. The design was relatively straightforward, as it involved setting up the ADC and a SPI unit, then performing calculations on both the audio samples and the frequency spectrum of those samples and piping the dominant frequency to a Timer.
 
 
 The source code for the project is located in the Github repository [here](https://github.com/brianSimpkins/E155_Final/tree/main/src).
